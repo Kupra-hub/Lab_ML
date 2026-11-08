@@ -4,3 +4,4 @@ keras==3.16.0.dev2026102204
 scikit-learn==1.9.0
 seaborn==0.13.2
 matplotlib==3.11.0
+mlflow==3.18.0
